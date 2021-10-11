@@ -1,5 +1,7 @@
 <?php
-class User extends Model {
+
+class User extends Model
+{
     protected static $tableName = 'users';
     protected static $columns = [
         'id',
