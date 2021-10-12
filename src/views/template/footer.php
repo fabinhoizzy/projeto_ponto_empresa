@@ -1,8 +1,8 @@
-<div class="footer">
+<script src="assets/js/app.js"></script>
+<footer class="footer">
     <span>
         Desenvolvido por IzzyCorp
     </span>
-
-</div>
+</footer>
 </body>
 </html>
